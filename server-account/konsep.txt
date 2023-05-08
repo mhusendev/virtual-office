@@ -1,0 +1,7 @@
+konsep payment
+1. bersifat global (dipakai di berbeda apps)
+2. setiap app wajib dikenali (register dengan kode number)
+
+    { app_code , app_name, url_notif, date_created, pic_name, pic_contac }
+
+3. SAAS
